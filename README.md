@@ -27,9 +27,13 @@ A Full Stack developer who loves learning new languages, Korean culture, mechani
 
 # Contacto / Contact
 
-Soy una apasionada de Angular, Sass, la accesibilidad web y el diseño responsive. ¡No dudes en escribirme si tienes algún proyecto open source en el que pudiera colaborar!, ¡Estaría más que encantada de hacerlo! Puedes ponerte en contacto conmigo escribiendo directamente a gonzalezseledev@gmail.com ¡Te responderé lo antes posible! 😊
+Soy una apasionada de Angular, Sass, la accesibilidad web y el diseño responsive. ¡No dudes en escribirme si tienes algún proyecto open source en el que pudiera colaborar!, ¡Estaría más que encantada de hacerlo! 
+
+Puedes ponerte en contacto conmigo escribiendo directamente a gonzalezseledev@gmail.com ¡Te responderé lo antes posible! 😊
 
 <hr>
 
-I am passionate about Angular, Sass, web accessibility and responsive design. Do not hesitate to write to me if you have any open source project in which I could collaborate! I would be more than happy to do so! You can contact me by writing directly to gonzalezseledev@gmail.com 
+I am passionate about Angular, Sass, web accessibility and responsive design. Do not hesitate to write to me if you have any open source project in which I could collaborate! I would be more than happy to do so! 
+
+You can contact me by writing directly to gonzalezseledev@gmail.com 
 I will answer you as soon as possible! 😊
