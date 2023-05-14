@@ -2,11 +2,11 @@
 
 ![header](https://github.com/gonzalezsele/gonzalezseledev/assets/124175903/cf5ad881-b86e-49bf-b40c-7cd2942f94cf)
 
-Una desarrolladora Full Stack a la que le encanta aprender nuevos lenguajes, la cultura coreana, los teclados mecánicos, las novelas de ciencia ficción, y los gifs de gatos. Me encanta la cooperación y el trabajo en equipo por lo que, en mi tiempo libre, me gusta contribuir en proyectos de código abierto para generar y aportar valor para la comunidad. Por otro lado, creo que es posible cambiar el mundo desde detrás de un monitor y un teclado, por lo que soy una firme defensora de promover el empoderamiento y la lucha contra la falta de representación femenina en el sector tecnológico. 
+Una desarrolladora Full Stack a la que le encanta aprender nuevos lenguajes, la cultura coreana, los teclados mecánicos, las novelas de ciencia ficción, y los gifs de gatos. Me encanta la cooperación y el trabajo en equipo por lo que, en mi tiempo libre, me gusta contribuir en proyectos de código abierto para generar y aportar valor para la comunidad. Por otro lado, creo que es posible cambiar el mundo desde detrás de un monitor y un teclado, por lo que soy una firme defensora del empoderamiento femenino, y la lucha contra la falta de diversidad en el sector tecnológico. 
 
 <hr>
 
-A Full Stack developer who loves learning new languages, Korean culture, mechanical keyboards, sci-fi novels, and cat gifs. I love cooperation and teamwork, so in my spare time I like to contribute to open source projects to generate and add value to the community. I believe that it is possible to change the world from behind a monitor and a keyboard, which is why I am a strong advocate of promoting empowerment and fighting against the lack of female representation in the technology sector.
+A Full Stack developer who loves learning new languages, Korean culture, mechanical keyboards, sci-fi novels, and cat gifs. I love cooperation and teamwork, so in my spare time I like to contribute to open source projects to generate and add value to the community. On the other hand, I believe that it is possible to change the world from behind a monitor and a keyboard, which is why I am a strong advocate of female empowerment, and the fight against the lack of diversity in the technology sector.
 
 
 ## Puedes encontrarme en 🌎: 
