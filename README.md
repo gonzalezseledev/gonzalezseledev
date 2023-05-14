@@ -1,16 +1,35 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Selene
 
-<!--
-**gonzalezsele/gonzalezsele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://github.com/gonzalezsele/gonzalezseledev/assets/124175903/cf5ad881-b86e-49bf-b40c-7cd2942f94cf)
 
-Here are some ideas to get you started:
+Una desarrolladora Full Stack a la que le encanta aprender nuevos lenguajes, la cultura coreana, los teclados mecánicos, las novelas de ciencia ficción, y los gifs de gatos. Me encanta la cooperación y el trabajo en equipo por lo que, en mi tiempo libre, me gusta contribuir en proyectos de código abierto para generar y aportar valor para la comunidad. Por otro lado, creo que es posible cambiar el mundo desde detrás de un monitor y un teclado, por lo que soy una firme defensora de promover el empoderamiento y la lucha contra la falta de representación femenina en el sector tecnológico. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+A Full Stack developer who loves learning new languages, Korean culture, mechanical keyboards, sci-fi novels, and cat gifs. I love cooperation and teamwork, so in my spare time I like to contribute to open source projects to generate and add value to the community. I believe that it is possible to change the world from behind a monitor and a keyboard, which is why I am a strong advocate of promoting empowerment and fighting against the lack of female representation in the technology sector.
+
+
+## Puedes encontrarme en 🌎: 
+- <a href="https://www.linkedin.com/in/gonzalezseledev/">Linkedin</a> 💼
+- <a href="https://twitter.com/gonzalezseledev">Twitter</a> 🐦
+- <a href="https://www.instagram.com/mooninthecode/">Instagram</a> 📷
+
+
+# Extra
+
+- Soy cofundadora de las iniciativas literarias <a href="https://twitter.com/mayoscifi">MayoScifi</a> 🚀 & <a href="https://www.instagram.com/yoleocorea/">YoLeoCorea</a> 🇰🇷
+- En ocasiones salgo de mi cueva y recomiendo libros en <a href="http://territoriofantastico.com">Territorio Fantástico</a> 😀
+
+<hr>
+
+- I am co-founder of the literary initiatives <a href="https://twitter.com/mayoscifi">MayoScifi</a> 🚀 & <a href="https://www.instagram.com/yoleocorea/">YoLeoCorea </a> 🇰🇷
+- Sometimes I come out of my cave and recommend books at <a href="http://territoriofantastico.com">Fantastic Territory</a> 😀
+
+# Contacto / Contact
+
+Soy una apasionada de Angular, Sass, la accesibilidad web y el diseño responsive. ¡No dudes en escribirme si tienes algún proyecto open source en el que pudiera colaborar!, ¡Estaría más que encantada de hacerlo! Puedes ponerte en contacto conmigo escribiendo directamente a gonzalezseledev@gmail.com ¡Te responderé lo antes posible! 😊
+
+<hr>
+
+I am passionate about Angular, Sass, web accessibility and responsive design. Do not hesitate to write to me if you have any open source project in which I could collaborate! I would be more than happy to do so! You can contact me by writing directly to gonzalezseledev@gmail.com 
+I will answer you as soon as possible! 😊
