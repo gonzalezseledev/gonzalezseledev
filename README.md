@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Selene
 
-![header](https://github.com/gonzalezsele/gonzalezseledev/assets/124175903/cf5ad881-b86e-49bf-b40c-7cd2942f94cf)
+![header](https://github.com/gonzalezsele/gonzalezsele/assets/124175903/895a55cf-cec4-48a0-a650-e74089b4052a)
 
 Una desarrolladora Full Stack a la que le encanta aprender nuevos lenguajes, la cultura coreana, los teclados mecánicos, las novelas de ciencia ficción, y los gifs de gatos. Me encanta la cooperación y el trabajo en equipo por lo que, en mi tiempo libre, me gusta contribuir en proyectos de código abierto para generar y aportar valor para la comunidad. Por otro lado, creo que es posible cambiar el mundo desde detrás de un monitor y un teclado, por lo que soy una firme defensora del empoderamiento femenino, y la lucha contra la falta de diversidad en el sector tecnológico. 
 
