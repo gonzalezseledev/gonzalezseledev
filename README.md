@@ -1,5 +1,9 @@
 
-# ¡Hola! 👋, mi nombre es SELENE GONZALEZ <!-- [![](https://visitcount.itsvg.in/api?id=gonzalezseledev&icon=0&color=6)](https://visitcount.itsvg.in) -->
+<img align="right" src="https://visitcount.itsvg.in/api?id=gonzalezseledev&icon=0&color=6" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&color=9379C2&size=35&weight=700&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+soy+SELENE+GONZALEZ;" />
+</h1>
 
 ![https://github.com/gonzalezseledev](https://github.com/gonzalezsele/gonzalezsele/assets/124175903/895a55cf-cec4-48a0-a650-e74089b4052a)
 
@@ -64,22 +68,14 @@ END PROJECTS-CARDS -->
 
 ## Puedes encontrarme en / You can find me at 🌎: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzalezseledev) 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gonzalezseledev) -->
-
-<!-- 
-
-📧 [Email](mailto:gonzalezseledev@gmail.com)
-🌐 [Portfolio](https://gonzalezseledev.github.io/portfolio/home.html)
-
--->
-
-## Contacto / Contact 📧:
-
-Puedes ponerte en contacto conmigo escribiendo directamente a gonzalezseledev@gmail.com 
-¡Te responderé lo antes posible! ^^
-
----
-
-You can contact me by writing directly to gonzalezseledev@gmail.com 
-I will answer you as soon as possible! ^^
+<div align="left"> 
+  <a href="mailto:gonzalezseledev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/gonzalezseledev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://gonzalezseledev.github.io/portfolio/home.html" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
