@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitcount.itsvg.in/api?id=gonzalezseledev&icon=0&color=6" />
+<img align="right" src="https://visitcount.itsvg.in/api?id=gonzalezseledev&icon=8&color=12" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&color=9379C2&size=35&weight=700&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+soy+SELENE+GONZALEZ;" />
@@ -52,6 +52,21 @@ END PROJECTS-CARDS -->
 - **IN PROGRESS**: ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=101010) ![Flask](https://img.shields.io/badge/flask-%23404d59.svg?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010) 
 </br>
 
+<hr/>
+
+<h2 align="left">Puedes encontrarme en / You can find me at </h2>
+<div align="left"> 
+  <a href="mailto:gonzalezseledev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/gonzalezseledev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://gonzalezseledev.github.io/portfolio/home.html" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
 <!-- 
 
 # Extra
@@ -65,17 +80,3 @@ END PROJECTS-CARDS -->
 - Sometimes I come out of my cave and recommend books at <a href="http://territoriofantastico.com">Fantastic Territory</a> 😀
 
 -->
-
-## Puedes encontrarme en / You can find me at 🌎: 
-
-<div align="left"> 
-  <a href="mailto:gonzalezseledev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/gonzalezseledev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://gonzalezseledev.github.io/portfolio/home.html" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
