@@ -1,10 +1,16 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=gonzalezseledev&icon=8&color=12" />
 
+# Hola 👋, mi nombre es SELENE GONZÁLEZ 
+
+<!--
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&color=9379C2&size=35&weight=700&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+soy+SELENE+GONZALEZ;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&color=7F73E3&size=35&weight=500&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+soy+SELENE+GONZALEZ;" />
 </h1>
 
-![https://github.com/gonzalezseledev](https://github.com/gonzalezsele/gonzalezsele/assets/124175903/895a55cf-cec4-48a0-a650-e74089b4052a)
+-->
+
+![https://github.com/gonzalezseledev](https://github.com/gonzalezseledev/gonzalezseledev/blob/main/banner_github.png)
 
 Una **Full Stack Developer** a la que le encanta **aprender cosas nuevas, la cultura coreana 🌺, los teclados mecánicos ⌨️, las novelas de ciencia ficción 🪐, y los gifs de gatos 🐱**.
 
@@ -31,25 +37,25 @@ END PROJECTS-CARDS -->
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
-![Lenguajes](https://img.shields.io/badge/lenguajes-101010?style=for-the-badge&logo=lenguajes&logoColor=white) ![Python](https://img.shields.io/badge/python-5865F2?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)  ![JavaScript](https://img.shields.io/badge/javascript-DFDE65?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
-![Frameworks](https://img.shields.io/badge/frameworks-101010?style=for-the-badge&logo=frameworks&logoColor=white) ![Angular](https://img.shields.io/badge/angular-FF6961?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)<br>
-![Frontend](https://img.shields.io/badge/frontend-101010?style=for-the-badge&logo=frontend&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010) ![CSS3](https://img.shields.io/badge/css3-84B6F4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010) ![Bootstrap](https://img.shields.io/badge/bootstrap-7F73E3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)<br>
-![Backend](https://img.shields.io/badge/backend-101010?style=for-the-badge&logo=backend&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-48BB9C?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010) ![Express.js](https://img.shields.io/badge/express.js-00678C?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)<br>
-![Database](https://img.shields.io/badge/database-101010?style=for-the-badge&logo=database&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)<br>
-![Tools](https://img.shields.io/badge/tools-101010?style=for-the-badge&logo=tools&logoColor=white) ![Git](https://img.shields.io/badge/git-B52E31?style=for-the-badge&logo=git&&logoColor=white&labelColor=101010)<br>
-![Learning](https://img.shields.io/badge/learning-101010?style=for-the-badge&logo=learning&logoColor=white) ![Django](https://img.shields.io/badge/django-48BB9C?style=for-the-badge&logo=django&logoColor=white&labelColor=101010) ![Flask](https://img.shields.io/badge/flask-FF6961?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)
+![Lenguajes](https://img.shields.io/badge/lenguajes-000001?style=for-the-badge&logo=lenguajes&logoColor=white) ![Python](https://img.shields.io/badge/python-5865F2?style=for-the-badge&logo=python&logoColor=white&labelColor=000001)  ![JavaScript](https://img.shields.io/badge/javascript-DFDE65?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000001)<br>
+![Frameworks](https://img.shields.io/badge/frameworks-000001?style=for-the-badge&logo=frameworks&logoColor=white) ![Angular](https://img.shields.io/badge/angular-FF6961?style=for-the-badge&logo=angular&logoColor=white&labelColor=000001)<br>
+![Frontend](https://img.shields.io/badge/frontend-000001?style=for-the-badge&logo=frontend&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000001) ![CSS3](https://img.shields.io/badge/css3-84B6F4?style=for-the-badge&logo=css3&logoColor=white&labelColor=000001) ![Bootstrap](https://img.shields.io/badge/bootstrap-7F73E3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000001)<br>
+![Backend](https://img.shields.io/badge/backend-000001?style=for-the-badge&logo=backend&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-48BB9C?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000001) ![Express.js](https://img.shields.io/badge/express.js-00678C?style=for-the-badge&logo=express&logoColor=white&labelColor=000001)<br>
+![Database](https://img.shields.io/badge/database-000001?style=for-the-badge&logo=database&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000001) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000001)<br>
+![Tools](https://img.shields.io/badge/tools-000001?style=for-the-badge&logo=tools&logoColor=white) ![Git](https://img.shields.io/badge/git-B52E31?style=for-the-badge&logo=git&&logoColor=white&labelColor=000001)<br>
+![Learning](https://img.shields.io/badge/learning-000001?style=for-the-badge&logo=learning&logoColor=white) ![Django](https://img.shields.io/badge/django-48BB9C?style=for-the-badge&logo=django&logoColor=white&labelColor=000001) ![Flask](https://img.shields.io/badge/flask-FF6961?style=for-the-badge&logo=flask&logoColor=white&labelColor=000001)
 
 ## 🪐 Contacto:
 
 <div align="left"> 
   <a href="mailto:gonzalezseledev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-000001?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
   <a href="https://linkedin.com/in/gonzalezseledev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://gonzalezseledev.github.io/portfolio/home.html" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-7F73E3?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
