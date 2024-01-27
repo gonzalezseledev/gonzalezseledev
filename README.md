@@ -4,11 +4,29 @@
 
 <a href="https://github.com/gonzalezseledev"><img src="https://github.com/gonzalezseledev/gonzalezseledev/blob/main/banner_github.png"/>
 
-<h3>Tech Stack...<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>  
-
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-
-![Python](https://img.shields.io/badge/python-5865F2?style=for-the-badge&logo=python&logoColor=white&labelColor=000001) ![JavaScript](https://img.shields.io/badge/javascript-DFDE65?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000001) ![Typescript](https://img.shields.io/badge/typescript-4479A1?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000001) ![Angular](https://img.shields.io/badge/angular-FF6961?style=for-the-badge&logo=angular&logoColor=white&labelColor=000001) ![HTML5](https://img.shields.io/badge/html5-23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000001) ![CSS3](https://img.shields.io/badge/css3-84B6F4?style=for-the-badge&logo=css3&logoColor=white&labelColor=000001) ![Bootstrap](https://img.shields.io/badge/bootstrap-7F73E3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000001) ![NodeJS](https://img.shields.io/badge/node.js-48BB9C?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000001) ![Express.js](https://img.shields.io/badge/express.js-00678C?style=for-the-badge&logo=express&logoColor=white&labelColor=000001) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000001) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000001) ![Visual Studio Code](https://img.shields.io/badge/visualstudiocode-4479A1.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000001) ![Git](https://img.shields.io/badge/git-B52E31?style=for-the-badge&logo=git&&logoColor=white&labelColor=000001) ![npm](https://img.shields.io/badge/npm-%234ea94b.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=000001) ![Django](https://img.shields.io/badge/django-48BB9C?style=for-the-badge&logo=django&logoColor=white&labelColor=000001) ![Flask](https://img.shields.io/badge/flask-FF6961?style=for-the-badge&logo=flask&logoColor=white&labelColor=000001)
+<h2>Tech Stack...<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>  
+<br>
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/python-7F73E3?style=for-the-badge&logo=python&logoColor=white&labelColor=000001" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-7F73E3?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000001" /> 
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-7F73E3?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000001" />
+  <img alt="Angular" src="https://img.shields.io/badge/angular-7F73E3?style=for-the-badge&logo=angular&logoColor=white&labelColor=000001" />
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-7F73E3?style=for-the-badge&logo=html5&logoColor=white&labelColor=000001" />
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-7F73E3?style=for-the-badge&logo=css3&logoColor=white&labelColor=000001" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7F73E3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000001" />
+</div>
+<div align="center">
+  <img alt="Nodejs" src="https://img.shields.io/badge/node.js-7F73E3?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000001" />
+  <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-7F73E3?style=for-the-badge&logo=express&logoColor=white&labelColor=000001" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-7F73E3.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000001" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-7F73E3.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000001" />
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-7F73E3.svg?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000001" />
+  <img alt="Git" src="https://img.shields.io/badge/git-7F73E3?style=for-the-badge&logo=git&logoColor=white&labelColor=000001" />
+  <img alt="npm" src="https://img.shields.io/badge/-npm-7F73E3?style=flat-square&logo=npm&logoColor=white&labelColor=000001" />
+  <img alt="Django" src="https://img.shields.io/badge/django-7F73E3?style=for-the-badge&logo=django&logoColor=white&labelColor=000001" />
+  <img alt="Flask" src="https://img.shields.io/badge/flask-7F73E3?style=for-the-badge&logo=flask&logoColor=white&labelColor=000001" />
+</div>
+<br>
 
 ```javascript
 class techStack { 
@@ -17,7 +35,7 @@ class techStack {
     "Frameworks" : {"Angular"},
     "Frontend" : { "HTML5", "CSS3", "Bootstrap" },
     "Backend" : {"NodeJS", "ExpressJs"},
-    "Database" : { "SQL", "MySQL", "MongoDB" },
+    "Database" : { "SQL", "MySQL", "MongoDB", "Pandas" },
     "Editor" : { "Vscode" },
     "OtherTools" : { "Git", "npm" },
     "Learning" : { "Django", "Flask" },
@@ -47,19 +65,21 @@ Una **Full Stack Developer** a la que le encanta **aprender cosas nuevas, la cul
 
 END PROJECTS-CARDS -->
 
-## 🪐 Contacto:
-
-<div align="left"> 
+<h2>Let's Connect 🪐</h2>
+<p>
   <a href="mailto:gonzalezseledev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000001?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+    <img src="https://img.shields.io/badge/Gmail-7F73E3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000001" target="_blank" />
   </a>
+  <a href="https://github.com/gonzalezseledev" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-7F73E3?&style=for-the-badge&logo=Github&logoColor=white&labelColor=000001" />
+  </a> 
   <a href="https://linkedin.com/in/gonzalezseledev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-7F73E3?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000001" />
+  </a> 
   <a href="https://gonzalezseledev.github.io/portfolio/home.html" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-7F73E3?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-7F73E3?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000001" target="_blank" />
   </a>
-</div>
+</p>
 
 <!-- 
 
