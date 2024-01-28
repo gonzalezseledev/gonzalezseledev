@@ -1,6 +1,27 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gonzalezseledev.gonzalezseledev)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 <h2>Hola, soy SELENE GONZALEZ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <a href="https://github.com/gonzalezseledev"><img src="https://github.com/gonzalezseledev/gonzalezseledev/blob/main/banner_github.png"/>
+
+```python
+
+class FullStackDeveloper:
+
+    def __init__(self):
+        self.name = "Selene Gonzalez"
+        self.role = "Full Stack developer"
+        self.language_spoken = ["es_ES", "en_US"]
+
+    def say_hi(self):
+        print("¡Gracias por tu visita! Tu apoyo me ayuda a mantener vivo este sueño. ¡Feliz día! 💜")
+
+
+me = FullStackDeveloper()
+me.say_hi()
+
+```
 
 Una **Full Stack Developer** a la que le encanta **aprender cosas nuevas, la cultura coreana 🌺, los teclados mecánicos ⌨️, las novelas de ciencia ficción 🪐, y los gifs de gatos 🐱**.
 
@@ -14,7 +35,7 @@ Una **Full Stack Developer** a la que le encanta **aprender cosas nuevas, la cul
 
 <!-- Tech Stack Section -->
 
-<h2>Tech Stack<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>  
+<h2>✦ Tech Stack<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>  
 <br>
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-7F73E3?style=for-the-badge&logo=python&logoColor=white&labelColor=000001" />
@@ -53,7 +74,7 @@ class techStack {
 
 <!-- BEGIN PROJECTS-CARDS
 
-## 👩🏻‍💻 Proyectos Destacados:
+## ✦ Proyectos Destacados:
 
 [![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
 [![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Tips+and+advice+for+Computer+Science+students&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Tips and advice for Computer Science students")](https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX)
@@ -64,7 +85,7 @@ END PROJECTS-CARDS -->
 
 <!-- Passions Section -->
 
-<h2>Mis pasiones 💜</h2>
+<h2>✦ Mis pasiones</h2> 
 
 - Hackatones y eventos de desarrollo.
 - Soy cofundadora de las iniciativas literarias [MayoScifi](https://twitter.com/mayoscifi)🚀 & [YoLeoCorea](https://www.instagram.com/yoleocorea/) 🇰🇷
@@ -72,7 +93,7 @@ END PROJECTS-CARDS -->
 
 <!-- Contact Section -->
 
-<h2>Let's Connect 📪 </h2>
+<h2>✦ Let's Connect</h2>
 <p>
   <a href="mailto:gonzalezseledev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-7F73E3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000001" target="_blank" />
