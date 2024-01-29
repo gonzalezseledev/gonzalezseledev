@@ -1,15 +1,20 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gonzalezseledev.gonzalezseledev)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Lover](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<h2>Hola, soy SELENE GONZALEZ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+## Hola, soy SELENE GONZALEZ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <a href="https://github.com/gonzalezseledev"><img src="https://github.com/gonzalezseledev/gonzalezseledev/blob/main/banner_github.png"/>
+
+Una **Full Stack Developer** apasionada por crear **experiencias digitales innovadoras**. Me encanta explorar **nuevas tecnologías y tendencias para mejorar mis habilidades, la cultura coreana 🌺, los teclados mecánicos ⌨️, las novelas de ciencia ficción 🪐, y los gifs de gatos 🐱**.
+
+**Uso mi lado creativo para diseñar y mi lado lógico para codificar**, por lo que paso los días (y a menudo muchas noches), convirtiendo líneas infinitas de código, en **experiencias de usuario intuitivas y adaptables**.
 
 ```python
 
 class FullStackDeveloper:
 
     def __init__(self):
+        self.pronouns = "she" | "her",
         self.name = "Selene Gonzalez"
         self.role = "Full Stack developer"
         self.language_spoken = ["es_ES", "en_US"]
@@ -23,20 +28,10 @@ me.say_hi()
 
 ```
 
-Una **Full Stack Developer** a la que le encanta **aprender cosas nuevas, la cultura coreana 🌺, los teclados mecánicos ⌨️, las novelas de ciencia ficción 🪐, y los gifs de gatos 🐱**.
-
-**Uso mi lado creativo para diseñar y mi lado lógico para codificar**, por lo que paso los días (y a menudo muchas noches), convirtiendo líneas infinitas de código, en **experiencias de usuario intuitivas y adaptables**.
-
-**Mi pasión por el código** *(yo no lo elegí el código, el código me eligió a mí)*, **me ha llevado a aprender diferentes lenguajes de programación**, y en un interesante giro de los acontecimientos... **Python 🐍 llegó a mi vida**.
-
-**Soy una persona alegre y curiosa, que busca un equipo valiente con el que pueda potenciar mis conocimientos y habilidades profesionales, creando un impacto duradero y significativo en la vida de las personas, la sociedad y el mundo en el que vivimos.**
-
-**Si estás buscando una profesional proactiva y dedicada, que viva los lunes como si fueran viernes, ¡cuenta conmigo!**
-
 <!-- Tech Stack Section -->
 
-<h2>✦ Tech Stack<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>  
-<br>
+### ✦ Tech Stack <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-7F73E3?style=for-the-badge&logo=python&logoColor=white&labelColor=000001" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-7F73E3?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000001" /> 
@@ -57,24 +52,24 @@ Una **Full Stack Developer** a la que le encanta **aprender cosas nuevas, la cul
 </div>
 <br>
 
-```javascript
-class techStack { 
-  const hardSkills = {  
-    "ProgramingLanguages" : { "Python", "Javascript", "Typescript" },
+```python
+
+tech_stack = { 
+    "Programing Languages" : { "Python", "Javascript", "Typescript" },
     "Frameworks" : {"Angular"},
     "Frontend" : { "HTML5", "CSS3", "Bootstrap" },
     "Backend" : {"NodeJS", "ExpressJs"},
     "Database" : { "SQL", "MySQL", "MongoDB", "Pandas" },
     "Editor" : { "Vscode" },
     "OtherTools" : { "Git", "npm" },
-    "Learning" : { "Django", "Flask" },
-  };
+    "Learning" : { "Python Web Development" ["Django", "Flask"] },
 }
+
 ```
 
 <!-- BEGIN PROJECTS-CARDS
 
-## ✦ Proyectos Destacados:
+### ✦ Proyectos Destacados
 
 [![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
 [![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Tips+and+advice+for+Computer+Science+students&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Tips and advice for Computer Science students")](https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX)
@@ -85,15 +80,19 @@ END PROJECTS-CARDS -->
 
 <!-- Passions Section -->
 
-<h2>✦ Mis pasiones</h2> 
+### ✦ Mis pasiones 
 
-- Hackatones y eventos de desarrollo.
-- Soy cofundadora de las iniciativas literarias [MayoScifi](https://twitter.com/mayoscifi)🚀 & [YoLeoCorea](https://www.instagram.com/yoleocorea/) 🇰🇷
-- En ocasiones salgo de mi cueva y recomiendo libros en [Territorio Fantástico](http://territoriofantastico)😀
++ Hackatones & eventos de desarrollo.
++ Práctica de desarrollo en plataformas en línea: [Retos de programación](https://retosdeprogramacion.com/ejercicios), [Codewars](https://www.codewars.com/).
++ Literatura:
+  - Soy cofundadora de las iniciativas literarias [MayoScifi](https://twitter.com/mayoscifi)🚀 & [YoLeoCorea](https://www.instagram.com/yoleocorea/) 🇰🇷
+  - Recomiendo libros en [Territorio Fantástico](http://territoriofantastico)😀
+  - [Goodreads](https://www.goodreads.com/user/show/77506113-torda-de-ciudad)
 
 <!-- Contact Section -->
 
-<h2>✦ Let's Connect</h2>
+### ✦ ¡Conectemos! =)
+
 <p>
   <a href="mailto:gonzalezseledev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-7F73E3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000001" target="_blank" />
