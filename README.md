@@ -1,13 +1,18 @@
+<!--
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gonzalezseledev.gonzalezseledev)
 [![Open Source Lover](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-# Hola, soy SELENE GONZALEZ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+-->
+
+<h1>Hola, soy SELENE GONZÁLEZ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <a href="https://github.com/gonzalezseledev"><img src="https://github.com/gonzalezseledev/gonzalezseledev/blob/main/banner_github.png"/>
 
-Una **Full Stack Developer** apasionada por crear **experiencias digitales innovadoras**. Me encanta explorar **nuevas tecnologías y tendencias para mejorar mis habilidades, la cultura coreana 🌺, los teclados mecánicos ⌨️, las novelas de ciencia ficción 🪐, y los gifs de gatos 🐱**.
+𝚄𝚗𝚊 **𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛** 𝚊𝚙𝚊𝚜𝚒𝚘𝚗𝚊𝚍𝚊 𝚙𝚘𝚛 𝚌𝚛𝚎𝚊𝚛 **𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚒𝚊𝚜 𝚍𝚒𝚐𝚒𝚝𝚊𝚕𝚎𝚜 𝚒𝚗𝚗𝚘𝚟𝚊𝚍𝚘𝚛𝚊𝚜**. 𝙼𝚎 𝚎𝚗𝚌𝚊𝚗𝚝𝚊
+e𝚡𝚙𝚕𝚘𝚛𝚊𝚛 **𝚗𝚞𝚎𝚟𝚊𝚜 𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒́𝚊𝚜 𝚢 𝚝𝚎𝚗𝚍𝚎𝚗𝚌𝚒𝚊𝚜 𝚙𝚊𝚛𝚊 𝚖𝚎𝚓𝚘𝚛𝚊𝚛 𝚖𝚒𝚜 𝚑𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜, 𝚕𝚊 𝚌𝚞𝚕𝚝𝚞𝚛𝚊 𝚌𝚘𝚛𝚎𝚊𝚗𝚊 🌺, 𝚕𝚘𝚜 𝚝𝚎𝚌𝚕𝚊𝚍𝚘𝚜 𝚖𝚎𝚌𝚊́𝚗𝚒𝚌𝚘𝚜 ⌨️, 𝚕𝚊𝚜 𝚗𝚘𝚟𝚎𝚕𝚊𝚜 𝚍𝚎 𝚌𝚒𝚎𝚗𝚌𝚒𝚊 𝚏𝚒𝚌𝚌𝚒𝚘́𝚗 🪐, 𝚢 𝚕𝚘𝚜 𝚐𝚒𝚏𝚜 𝚍𝚎 𝚐𝚊𝚝𝚘𝚜 🐱**.
 
-**Uso mi lado creativo para diseñar y mi lado lógico para codificar**, por lo que paso los días (y a menudo muchas noches), convirtiendo líneas infinitas de código, en **experiencias de usuario intuitivas y adaptables**.
+**𝚄𝚜𝚘 𝚖𝚒 𝚕𝚊𝚍𝚘 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚘 𝚙𝚊𝚛𝚊 𝚍𝚒𝚜𝚎𝚗̃𝚊𝚛 𝚢 𝚖𝚒 𝚕𝚊𝚍𝚘 𝚕𝚘́𝚐𝚒𝚌𝚘 𝚙𝚊𝚛𝚊 𝚌𝚘𝚍𝚒𝚏𝚒𝚌𝚊𝚛**, 𝚙𝚘𝚛 𝚕𝚘 𝚚𝚞𝚎 𝚙𝚊𝚜𝚘 𝚕𝚘𝚜 𝚍𝚒́𝚊𝚜 (𝚢 𝚊 𝚖𝚎𝚗𝚞𝚍𝚘 𝚖𝚞𝚌𝚑𝚊𝚜 𝚗𝚘𝚌𝚑𝚎𝚜), 𝚌𝚘𝚗𝚟𝚒𝚛𝚝𝚒𝚎𝚗𝚍𝚘 𝚕𝚒́𝚗𝚎𝚊𝚜 𝚒𝚗𝚏𝚒𝚗𝚒𝚝𝚊𝚜 𝚍𝚎 𝚌𝚘́𝚍𝚒𝚐𝚘, 𝚎𝚗 **𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚒𝚊𝚜 𝚍𝚎 𝚞𝚜𝚞𝚊𝚛𝚒𝚘 𝚒𝚗𝚝𝚞𝚒𝚝𝚒𝚟𝚊𝚜 𝚢 𝚊𝚍𝚊𝚙𝚝𝚊𝚋𝚕𝚎𝚜**.
 
 ```python
 
@@ -30,7 +35,7 @@ me.say_hi()
 
 <!-- Tech Stack Section -->
 
-## ✦ Tech Stack <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<h2>✦ Tech Stack <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-7F73E3?style=for-the-badge&logo=python&logoColor=white&labelColor=000001" />
@@ -50,7 +55,6 @@ me.say_hi()
   <img alt="Django" src="https://img.shields.io/badge/django-7F73E3?style=for-the-badge&logo=django&logoColor=white&labelColor=000001" />
   <img alt="Flask" src="https://img.shields.io/badge/flask-7F73E3?style=for-the-badge&logo=flask&logoColor=white&labelColor=000001" />
 </div>
-<br>
 
 ```python
 
@@ -60,12 +64,14 @@ tech_stack = {
     "Frontend" : { "HTML5", "CSS3", "Bootstrap" },
     "Backend" : {"NodeJS", "ExpressJs"},
     "Database" : { "SQL", "MySQL", "MongoDB", "Pandas" },
-    "Editor" : { "Vscode" },
+    "Editor" : { "Visual Studio Code" },
     "OtherTools" : { "Git", "npm" },
     "Learning" : { "Python Web Development" ["Django", "Flask"] },
 }
 
 ```
+
+<!-- Projects Section -->
 
 <!-- BEGIN PROJECTS-CARDS
 
@@ -80,22 +86,22 @@ END PROJECTS-CARDS -->
 
 <!-- Passions Section -->
 
-## ✦ Mis pasiones 
+<h2>✦ Mis pasiones</h2>
 
-+ Hackatones & eventos de desarrollo.
-+ Práctica de desarrollo en plataformas en línea: [Retos de programación](https://retosdeprogramacion.com/ejercicios), [Codewars](https://www.codewars.com/).
-+ Literatura:
-  - Soy cofundadora de las iniciativas literarias [MayoScifi](https://twitter.com/mayoscifi)🚀 & [YoLeoCorea](https://www.instagram.com/yoleocorea/) 🇰🇷
-  - Recomiendo libros en [Territorio Fantástico](http://territoriofantastico)😀
-  - [Goodreads](https://www.goodreads.com/user/show/77506113-torda-de-ciudad)
++ 𝙷𝚊𝚌𝚔𝚊𝚝𝚘𝚗𝚎𝚜 𝚢 𝚎𝚟𝚎𝚗𝚝𝚘𝚜 𝚍𝚎 𝚍𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘.
++ 𝙿𝚛𝚊́𝚌𝚝𝚒𝚌𝚊 𝚍𝚎 𝚍𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘 𝚎𝚗 𝚙𝚕𝚊𝚝𝚊𝚏𝚘𝚛𝚖𝚊𝚜 𝚎𝚗 𝚕𝚒́𝚗𝚎𝚊: [𝚁𝚎𝚝𝚘𝚜 𝚍𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊𝚌𝚒𝚘́𝚗](https://retosdeprogramacion.com/ejercicios), [𝙲𝚘𝚍𝚎𝚠𝚊𝚛𝚜](https://www.codewars.com/).
++ 𝙻𝚒𝚝𝚎𝚛𝚊𝚝𝚞𝚛𝚊:
+  - 𝚂𝚘𝚢 𝚌𝚘𝚏𝚞𝚗𝚍𝚊𝚍𝚘𝚛𝚊 𝚍𝚎 𝚕𝚊𝚜 𝚒𝚗𝚒𝚌𝚒𝚊𝚝𝚒𝚟𝚊𝚜 𝚕𝚒𝚝𝚎𝚛𝚊𝚛𝚒𝚊𝚜 [𝙼𝚊𝚢𝚘𝚂𝚌𝚒𝚏𝚒](https://twitter.com/mayoscifi)🚀 & [𝚈𝚘𝙻𝚎𝚘𝙲𝚘𝚛𝚎𝚊](https://www.instagram.com/yoleocorea/) 🇰🇷
+  - 𝚁𝚎𝚌𝚘𝚖𝚒𝚎𝚗𝚍𝚘 𝚕𝚒𝚋𝚛𝚘𝚜 𝚎𝚗 [𝚃𝚎𝚛𝚛𝚒𝚝𝚘𝚛𝚒𝚘 𝙵𝚊𝚗𝚝𝚊́𝚜𝚝𝚒𝚌𝚘](http://territoriofantastico)😀
+  - [𝙶𝚘𝚘𝚍𝚛𝚎𝚊𝚍𝚜](https://www.goodreads.com/user/show/77506113-torda-de-ciudad)
 
 <!-- Contact Section -->
 
-## ✦ ¡Conectemos! =)
+<h2>✦ ¡Conectemos! =) </h2>
 
-<p>
+<div>
   <a href="mailto:gonzalezseledev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7F73E3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000001" target="_blank" />
+    <img src="https://img.shields.io/badge/Gmail-7F73E3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000001" />
   </a>
   <a href="https://github.com/gonzalezseledev" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-7F73E3?&style=for-the-badge&logo=Github&logoColor=white&labelColor=000001" />
@@ -104,6 +110,6 @@ END PROJECTS-CARDS -->
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-7F73E3?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000001" />
   </a> 
   <a href="https://gonzalezseledev.github.io/portfolio/home.html" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-7F73E3?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000001" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-7F73E3?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000001" />
   </a>
-</p>
+</div>
