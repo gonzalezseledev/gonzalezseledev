@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gonzalezseledev.gonzalezseledev)
 [![Open Source Lover](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-## Hola, soy SELENE GONZALEZ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Hola, soy SELENE GONZALEZ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <a href="https://github.com/gonzalezseledev"><img src="https://github.com/gonzalezseledev/gonzalezseledev/blob/main/banner_github.png"/>
 
@@ -30,7 +30,7 @@ me.say_hi()
 
 <!-- Tech Stack Section -->
 
-### ✦ Tech Stack <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## ✦ Tech Stack <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-7F73E3?style=for-the-badge&logo=python&logoColor=white&labelColor=000001" />
@@ -69,7 +69,7 @@ tech_stack = {
 
 <!-- BEGIN PROJECTS-CARDS
 
-### ✦ Proyectos Destacados
+## ✦ Proyectos Destacados
 
 [![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
 [![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Tips+and+advice+for+Computer+Science+students&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Tips and advice for Computer Science students")](https://youtu.be/UItfbdI0oNc?si=mjrsewEwBdhtvzDX)
@@ -80,7 +80,7 @@ END PROJECTS-CARDS -->
 
 <!-- Passions Section -->
 
-### ✦ Mis pasiones 
+## ✦ Mis pasiones 
 
 + Hackatones & eventos de desarrollo.
 + Práctica de desarrollo en plataformas en línea: [Retos de programación](https://retosdeprogramacion.com/ejercicios), [Codewars](https://www.codewars.com/).
@@ -91,7 +91,7 @@ END PROJECTS-CARDS -->
 
 <!-- Contact Section -->
 
-### ✦ ¡Conectemos! =)
+## ✦ ¡Conectemos! =)
 
 <p>
   <a href="mailto:gonzalezseledev@gmail.com">
