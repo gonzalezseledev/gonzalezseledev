@@ -19,14 +19,14 @@ class FullStackDeveloper:
     def __init__(self):
         self.pronouns = "she" | "her",
         self.name = "Selene Gonzalez"
-        self.role = "Full Stack developer"
+        self.role = "Front End developer"
         self.language_spoken = ["es_ES", "en_US"]
 
     def say_hi(self):
         print("¡Gracias por tu visita! Tu apoyo me ayuda a mantener vivo este sueño. ¡Feliz día! 💜")
 
 
-me = FullStackDeveloper()
+me = FrontEndDeveloper()
 me.say_hi()
 
 ```
