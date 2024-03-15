@@ -9,7 +9,7 @@
 
 ¡Hola, mundo!
 
-Mi nombre es **Selene** (aunque vosotros podéis llamarme Sele). Una andaluza afincada en Madrid, y **Front End Developer Junior**, a la que le encanta aprender cosas nuevas, la cultura coreana 🌺, los teclados mecánicos ⌨️, las novelas de ciencia ficción 🪐, y los gifs de gatos 🐱.
+Mi nombre es **Selene** (aunque vosotros podéis llamarme Sele). Una andaluza afincada en Madrid, y **Full Stack Developer Junior**, a la que le encanta aprender cosas nuevas, la cultura coreana 🌺, los teclados mecánicos ⌨️, las novelas de ciencia ficción 🪐, y los gifs de gatos 🐱.
 
 Mi pasión por el código, y la convicción de que todo conocimiento se puede compartir, me impulsaron a iniciar **mooninthecode**, con la firme intención de **difundir mi pasión por el desarrollo web por el ciberespacio universal.**
 
@@ -24,14 +24,14 @@ class FullStackDeveloper:
     def __init__(self):
         self.pronouns = "she" | "her",
         self.name = "Selene Gonzalez Blanco"
-        self.role = "Front End developer"
+        self.role = Full Stack developer"
         self.language_spoken = ["es_ES", "en_US"]
 
     def say_hi(self):
         print("¡Gracias por tu visita! Tu apoyo me ayuda a mantener vivo este sueño. ¡Feliz día! 💜")
 
 
-me = FrontEndDeveloper()
+me = FullStackDeveloper()
 me.say_hi()
 
 ```
@@ -70,7 +70,7 @@ tech_stack = {
     "Database" : { "SQL", "MySQL", "MongoDB", "Pandas" },
     "Editor" : { "Visual Studio Code" },
     "OtherTools" : { "Git", "npm" },
-    "Learning" : { "Python Web Development" ["Django", "Flask"] },
+    "Learning" : { "Python Web Development" ["Django"] },
 }
 
 ```
