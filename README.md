@@ -9,13 +9,13 @@
 
 ¡Hola, mundo!
 
-Mi nombre es **Selene** (aunque vosotros podéis llamarme Sele). Una andaluza afincada en Madrid, y **Full Stack Developer Junior**, a la que le encanta aprender cosas nuevas, la cultura coreana 🌺, los teclados mecánicos ⌨️, las novelas de ciencia ficción 🪐, y los gifs de gatos 🐱.
+Mi nombre es **Selene** (aunque vosotros podéis llamarme Sele). Una **Desarrolladora Full Stack apasionada por la tecnología y la innovación, con especialización en Data Science e Inteligencia Artificial.**, a la que le encanta aprender cosas nuevas, la cultura coreana 🌺, los teclados mecánicos ⌨️, las novelas de ciencia ficción 🪐, y los gifs de gatos 🐱.
 
-Mi pasión por el código, y la convicción de que todo conocimiento se puede compartir, me impulsaron a iniciar **mooninthecode**, con la firme intención de **difundir mi pasión por el desarrollo web por el ciberespacio universal.**
+Mi pasión por el código, y la convicción de que todo conocimiento se puede compartir, me impulsaron a iniciar **mooninthecode**, con la firme intención de **difundir mi pasión por el código por el ciberespacio universal.**
 
 No soy una experta, ¡ni mucho menos!, soy una novata en este mundo. Pero **quiero compartir contigo mis descubrimientos más chulos, mis errores más épicos, y mis fantabulosos logros, mientras aprendo y crezco como profesional.** Mi objetivo es **ofrecerte una perspectiva diferente sobre este mundillo**, contarte mi experiencia personal, y darte algunos consejos (¡que no son leyes universales, ojo!).
 
-**¿Estás empezando en el mundo del desarrollo? ¿Te sientes perdido? ¿O simplemente buscas más recursos? ¡No importa! Sea cual sea tu situación, te invito a acompañarme en este viaje. Juntos podemos aprender, inspirarnos y apoyarnos. ¿Te apuntas?** **[Suscríbete a mi blog](https://#)**
+**¿Estás empezando en el mundo del desarrollo? ¿Te sientes perdido? ¿O simplemente buscas más recursos? ¡No importa! Sea cual sea tu situación, te invito a acompañarme en este viaje. Juntos podemos aprender, inspirarnos y apoyarnos. ¿Te apuntas?** <!-- **[Suscríbete a mi blog](https://#)** -->
 
 ```python
 
