@@ -25,10 +25,10 @@ En resumen, ¡tengo un conjunto diverso de habilidades y una actitud positiva qu
 
 ### Y las ventajas con las que contará son... 
 
-◦ Mi experiencia en **Angular** 
-◦ Mi dominio de **TypeScript**, **JavaScript** y **API REST**
-◦ Mi habilidad en **HTML/CSS/SCSS/BEM**
-◦ Mi práctica con metodologías como **Mobile First** y **Diseño Web Responsive**
+- Mi experiencia en **Angular** 
+- Mi dominio de **TypeScript**, **JavaScript** y **API REST**
+- Mi habilidad en **HTML/CSS/SCSS/BEM**
+- Mi práctica con metodologías como **Mobile First** y **Diseño Web Responsive**
 
 ¡Con estas habilidades, podemos llevar nuestras aplicaciones al siguiente nivel!
 
@@ -54,19 +54,19 @@ Si eres un reclutador de talento curioso y deseas saber más, ¡no dudes en envi
 
 ```python
 
-class FullStackDeveloper:
+class FrontEndDeveloper:
 
     def __init__(self):
         self.pronouns = "she" | "her",
         self.name = "Selene Gonzalez Blanco"
-        self.role = Full Stack developer"
+        self.role = Front End Developer"
         self.language_spoken = ["es_ES", "en_US"]
 
     def say_hi(self):
         print("¡Gracias por tu visita! Tu apoyo me ayuda a mantener vivo este sueño. ¡Feliz día! 💜")
 
 
-me = FullStackDeveloper()
+me = FrontEndDeveloper()
 me.say_hi()
 
 ```
