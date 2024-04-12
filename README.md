@@ -7,15 +7,50 @@
 
 <a href="https://github.com/gonzalezseledev"><img src="https://github.com/gonzalezseledev/gonzalezseledev/blob/main/banner.png"/>
 
-¡Hola, mundo!
+¡Hola, mundo! ✨
 
-Mi nombre es **Selene** (aunque vosotros podéis llamarme Sele). Una **Desarrolladora Full Stack apasionada por la tecnología y la innovación, con especialización en Data Science e Inteligencia Artificial.**, a la que le encanta aprender cosas nuevas, la cultura coreana 🌺, los teclados mecánicos ⌨️, las novelas de ciencia ficción 🪐, y los gifs de gatos 🐱.
+Apasionada por dar vida a interfaces web atractivas y funcionales, actualmente busco mi primera oportunidad profesional para sumergirme en el apasionante mundo del desarrollo, en el cual me considero más allá de un trabajadora, una apasionada.
 
-Mi pasión por el código, y la convicción de que todo conocimiento se puede compartir, me impulsaron a iniciar **mooninthecode**, con la firme intención de **difundir mi pasión por el código por el ciberespacio universal.**
+### Lo que puedo ofrecer es...
 
-No soy una experta, ¡ni mucho menos!, soy una novata en este mundo. Pero **quiero compartir contigo mis descubrimientos más chulos, mis errores más épicos, y mis fantabulosos logros, mientras aprendo y crezco como profesional.** Mi objetivo es **ofrecerte una perspectiva diferente sobre este mundillo**, contarte mi experiencia personal, y darte algunos consejos (¡que no son leyes universales, ojo!).
+• Como desarrolladora Front End, tengo un sólido dominio de **Angular** y **TypeScript**, respaldado por proyectos anteriores. 
 
-**¿Estás empezando en el mundo del desarrollo? ¿Te sientes perdido? ¿O simplemente buscas más recursos? ¡No importa! Sea cual sea tu situación, te invito a acompañarme en este viaje. Juntos podemos aprender, inspirarnos y apoyarnos. ¿Te apuntas?** <!-- **[Suscríbete a mi blog](https://#)** -->
+• He bailado al ritmo de **Git** mientras resolvía eficientemente desafíos técnicos, y aplico la **accesibilidad web** y el **diseño responsive** a mis proyectos, ¡porque todos los usuarios merecen una experiencia web extraordinaria! 
+
+• Me enorgullezco de mi trabajo, **siempre doy lo mejor de mí, amo lo que hago, no temo arriesgarme, y aprendo de mis errores**. 
+
+• **Bonus**: Mis **habilidades de comunicación** y **trabajo en equipo** me permiten adaptarme como un camaleón a cualquier entorno 🦎. 
+
+En resumen, ¡tengo un conjunto diverso de habilidades y una actitud positiva que contribuirá al crecimiento y éxito de quien decida contratarme!
+
+### Y las ventajas con las que contará son... 
+
+◦ Mi experiencia en **Angular** 
+◦ Mi dominio de **TypeScript**, **JavaScript** y **API REST**
+◦ Mi habilidad en **HTML/CSS/SCSS/BEM**
+◦ Mi práctica con metodologías como **Mobile First** y **Diseño Web Responsive**
+
+¡Con estas habilidades, podemos llevar nuestras aplicaciones al siguiente nivel!
+
+### Busco ser parte de... 
+
+¡Un equipo increíble! Un equipo valiente y colaborativo, con el que potenciar mis conocimientos y habilidades profesionales, cuya cultura celebre el aprendizaje, el debate constructivo, la innovación y la creatividad. Estoy emocionada por demostrar mi valía y aprender cada día algo nuevo. 
+
+### Me encuentro en búsqueda de un nuevo desafío profesional como: 
+
+➔ Front End Developer
+
+➔ Angular Developer
+
+➔ Frontend Web Developer
+
+➔ Maquetadora Web
+
+### ¿Suena bien?
+
+Si eres un reclutador de talento curioso y deseas saber más, ¡no dudes en enviarme un mensaje privado!
+
+<br>
 
 ```python
 
