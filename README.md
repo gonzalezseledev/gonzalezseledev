@@ -9,46 +9,7 @@
 
 ¡Hola, mundo! ✨
 
-Apasionada por dar vida a interfaces web atractivas y funcionales, actualmente busco mi primera oportunidad profesional para sumergirme en el apasionante mundo del desarrollo, en el cual me considero más allá de un trabajadora, una apasionada.
-
-### Lo que puedo ofrecer es...
-
-• Como desarrolladora Front End, tengo un sólido dominio de **Angular** y **TypeScript**, respaldado por proyectos anteriores. 
-
-• He bailado al ritmo de **Git** mientras resolvía eficientemente desafíos técnicos, y aplico la **accesibilidad web** y el **diseño responsive** a mis proyectos, ¡porque todos los usuarios merecen una experiencia web extraordinaria! 
-
-• Me enorgullezco de mi trabajo, **siempre doy lo mejor de mí, amo lo que hago, no temo arriesgarme, y aprendo de mis errores**. 
-
-• **Bonus**: Mis **habilidades de comunicación** y **trabajo en equipo** me permiten adaptarme como un camaleón a cualquier entorno 🦎. 
-
-En resumen, ¡tengo un conjunto diverso de habilidades y una actitud positiva que contribuirá al crecimiento y éxito de quien decida contratarme!
-
-### Y las ventajas con las que contará son... 
-
-- Mi experiencia en **Angular** 
-- Mi dominio de **TypeScript**, **JavaScript** y **API REST**
-- Mi habilidad en **HTML/CSS/SCSS/BEM**
-- Mi práctica con metodologías como **Mobile First** y **Diseño Web Responsive**
-
-¡Con estas habilidades, podemos llevar nuestras aplicaciones al siguiente nivel!
-
-### Busco ser parte de... 
-
-¡Un equipo increíble! Un equipo valiente y colaborativo, con el que potenciar mis conocimientos y habilidades profesionales, cuya cultura celebre el aprendizaje, el debate constructivo, la innovación y la creatividad. Estoy emocionada por demostrar mi valía y aprender cada día algo nuevo. 
-
-### Me encuentro en búsqueda de un nuevo desafío profesional como: 
-
-➔ Front End Developer
-
-➔ Angular Developer
-
-➔ Frontend Web Developer
-
-➔ Maquetadora Web
-
-### ¿Suena bien?
-
-Si eres un reclutador de talento curioso y deseas saber más, ¡no dudes en enviarme un mensaje privado!
+Soy una desarrolladora front end junior apasionada por la creación de experiencias web atractivas y funcionales. Me encanta trabajar con nuevas tecnologías y siempre estoy buscando formas de mejorar mis habilidades. Actualmente busco un equipo valiente y colaborativo, con el que potenciar mis conocimientos y habilidades profesionales. Estoy emocionada por demostrar mi valía y aprender cada día algo nuevo. 
 
 <br>
 
@@ -145,9 +106,11 @@ END PROJECTS-CARDS -->
   <a href="https://linkedin.com/in/gonzalezseledev" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0B6380?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000001" />
   </a> 
+    <!--
   <a href="https://www.instagram.com/mooninthecode/">
     <img src="https://img.shields.io/badge/Instagram-0B6380?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000001" />
   </a>
+    -->
   <a href="https://gonzalezseledev.github.io/portfolio/home.html" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-0B6380?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000001" />
   </a>
